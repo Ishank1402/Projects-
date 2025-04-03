@@ -24,6 +24,24 @@ Dataset Used : https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-song
 
 7. Comparison of playlists on Spotify, Apple Music, Deezer, and Shazam charts.
 
+
+Process : 
+
+1. Verified the dataset for missing values, inconsistencies, and anomalies, ensuring clean and structured data.
+
+2. Standardized data formats, refined column types, and removed duplicate entries for accuracy.
+
+3. Imported the dataset into Power BI and created relationships between relevant tables.
+
+4. Developed various visualizations, including bar charts, line graphs, and scatter plots, to analyze trends in song popularity, artist performance, and audio features.
+
+5. Designed an interactive dashboard by integrating filters and slicers, enabling users to dynamically explore trends across different parameters like artist, year, and streaming platform.
+
+6. Optimized the dashboard layout to enhance readability and user experience, making insights easily interpretable.
+
+
+
+
 Conclusion: 
 
 The analysis of Spotify’s top songs reveals that high danceability and energy levels significantly influence a track’s popularity. Most of the songs are in a major key, suggesting a listener preference for uplifting and bright-sounding music. While artists like The Weeknd and Ed Sheeran dominate in popularity scores, some lesser-known artists achieve remarkable streaming numbers, indicating strong niche audiences. Additionally, cross-platform presence and playlist inclusions play a vital role in overall streaming performance. This data-driven study highlights the key elements of successful music trends and offers valuable insights for artists and industry professionals.
