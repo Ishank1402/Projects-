@@ -4,27 +4,27 @@ This project analyzes Spotify's top songs of 2023 using Power BI and Python. The
 
  Key Performance Indicators (KPIs)
 
-Total Streams: Identifying the most streamed songs and artists.
+1. Total Streams: Identifying the most streamed songs and artists.
 
-Playlist & Chart Presence: Number of times a song appears in Spotify, Apple, and Deezer playlists/charts.
+2. Playlist & Chart Presence: Number of times a song appears in Spotify, Apple, and Deezer playlists/charts.
 
-Popularity Trends: Analyzing how song rankings change over time.
+3. Popularity Trends: Analyzing how song rankings change over time.
 
-Audio Features Analysis:
+4. Audio Features Analysis:
 
-Danceability
+(a) Danceability
 
-Energy levels
+(b) Energy levels
 
-Acousticness & Instrumentalness
+(c) Acousticness & Instrumentalness
 
-Speechiness & Liveness
+(d) Speechiness & Liveness
 
-BPM Distribution: Understanding tempo trends in popular music.
+(e) BPM Distribution: Understanding tempo trends in popular music.
 
-Playlist Distribution Across Streaming Platforms:
+5. Playlist Distribution Across Streaming Platforms:
 
-Comparison of playlists on Spotify, Apple Music, Deezer, and Shazam charts.
+6. Comparison of playlists on Spotify, Apple Music, Deezer, and Shazam charts.
 
 
 Findings:
