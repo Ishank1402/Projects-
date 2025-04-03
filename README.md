@@ -1,6 +1,12 @@
+Most Streamed Spotify Songs 2023
+
 Project Description
 
 This project analyzes Spotify's top songs of 2023 using Power BI and Python. The dataset includes key metrics such as song popularity, streaming counts, and various audio features (e.g., danceability, energy, acousticness). The Power BI dashboard provides interactive insights into trends in the music industry.
+
+
+Dataset Used : https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023
+
 
  Key Performance Indicators (KPIs)
 
