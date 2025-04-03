@@ -10,11 +10,13 @@ This project analyzes Spotify's top songs of 2023 using Power BI and Python. The
 
 3. Popularity Trends: Analyzing how song rankings change over time.
 
-4. Audio Features Analysis: Danceability, Energy levels, Acousticness & Instrumentalness, Speechiness & Liveness, BPM Distribution: Understanding tempo trends in popular music.
+4. Audio Features Analysis: Danceability, Energy levels, Acousticness & Instrumentalness, Speechiness & Liveness
+  
+5. BPM Distribution: Understanding tempo trends in popular music.
 
-5. Playlist Distribution Across Streaming Platforms:
+6. Playlist Distribution Across Streaming Platforms:
 
-6. Comparison of playlists on Spotify, Apple Music, Deezer, and Shazam charts.
+7. Comparison of playlists on Spotify, Apple Music, Deezer, and Shazam charts.
 
 
 Findings:
