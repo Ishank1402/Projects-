@@ -28,7 +28,9 @@ Dataset Used : https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-song
 Visuals :
 
 ![Screenshot 2025-04-04 033259](https://github.com/user-attachments/assets/f93a0227-1737-4781-b86a-9218fc27b8f1)
-![Screenshot 2025-04-04 033346](https://github.com/user-attachments/assets/e2691fc7-99c4-4540-8980-e01ec00ea1a3)
+
+![Screenshot 2025-04-06 224357](https://github.com/user-attachments/assets/c29c84a4-9fe4-4124-b0a2-da0017e8b8c4)
+
 
 
 
