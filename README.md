@@ -1,6 +1,6 @@
 Most Streamed Spotify Songs 2023
 
-Project Description
+📌  Project Description
 
 This project analyzes Spotify's top songs of 2023 using Power BI and Python. The dataset includes key metrics such as song popularity, streaming counts, and various audio features (e.g., danceability, energy, acousticness). The Power BI dashboard provides interactive insights into trends in the music industry.
 
@@ -8,7 +8,7 @@ This project analyzes Spotify's top songs of 2023 using Power BI and Python. The
 Dataset Used : https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023
 
 
- Key Performance Indicators (KPIs)
+📊 Key Performance Indicators (KPIs)
 
 1. Total Streams: Identifying the most streamed songs and artists.
 
@@ -30,7 +30,7 @@ Dashboard
 https://github.com/Ishank1402/Projects-/blob/main/Dashboard%201.png
 https://github.com/Ishank1402/Projects-/blob/main/Dashboard%202.png
 
-Process : 
+⚙️ Process : 
 
 1. Verified the dataset for missing values, inconsistencies, and anomalies, ensuring clean and structured data.
 
@@ -47,6 +47,6 @@ Process :
 
 
 
-Conclusion: 
+🧠 Conclusion: 
 
 The analysis of Spotify’s top songs reveals that high danceability and energy levels significantly influence a track’s popularity. Most of the songs are in a major key, suggesting a listener preference for uplifting and bright-sounding music. While artists like The Weeknd and Ed Sheeran dominate in popularity scores, some lesser-known artists achieve remarkable streaming numbers, indicating strong niche audiences. Additionally, cross-platform presence and playlist inclusions play a vital role in overall streaming performance. This data-driven study highlights the key elements of successful music trends and offers valuable insights for artists and industry professionals.
