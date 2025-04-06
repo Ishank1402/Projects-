@@ -25,10 +25,12 @@ Dataset Used : https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-song
 7. Comparison of playlists on Spotify, Apple Music, Deezer, and Shazam charts.
 
 
-Dashboard 
+Visuals :
 
-https://github.com/Ishank1402/Projects-/blob/main/Dashboard%201.png
-https://github.com/Ishank1402/Projects-/blob/main/Dashboard%202.png
+![Screenshot 2025-04-04 033259](https://github.com/user-attachments/assets/f93a0227-1737-4781-b86a-9218fc27b8f1)
+![Screenshot 2025-04-04 033346](https://github.com/user-attachments/assets/e2691fc7-99c4-4540-8980-e01ec00ea1a3)
+
+
 
 ⚙️ Process : 
 
